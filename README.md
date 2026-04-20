@@ -5,5 +5,5 @@
 - 🧠 Currently learning: Python, Algorithms, and Git  
 
 📫 Reach me:  
-telegram: [a_khuja](https://t.me/a_khuja)  
-email: latipovkhuja@gmail.com 
+      telegram: [a_khuja](https://t.me/a_khuja)  
+      email: latipovkhuja@gmail.com 
